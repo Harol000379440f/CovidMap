@@ -1,4 +1,23 @@
 # CovidMap      
 1 Título  
-#Autor: Jonathan Harol Rueda Castillo  
-¿qué hace?... Covidmapp  será una aplicasió  implementada en un servidor web, implementada con una interface grafica realizada por medio de appinventor, la aplicación hará una recolecciónde de información de los usuarios , como lo es. su nombre, su edad,  localidad en la cual vive, ugares donde ha estado últimamente y si ha sentido algunis sintomas  del  virus o ha estado contagiado. dicha aplicación también tendrá un portal por el cual hará una devolución de información actualiizada la cual le permitirá al usuario darse centa de que lugar va hacer seguro y cual no tan seguro, por otro lado la aplicación también busca orientar a personas que no han querido acatar las medidas de dicha pandemia.        
+#Autor: Jonathan Harol Rueda Castillo
+Proyecto final de telemática-2020. 
+# Descripción 
+La aplicación de covidMaps estará implementada mediante un
+servidor de página web basada por contenedores la cual hará
+una recolección de tiempo real acerca de los contagios que 
+suceden a diario en el valle aburrá de covid-19. esto a su vez,
+también permitirá ver la comunidad y el sector en los cuales se
+en cuentran las personas más contagiadas y por ende arrojará
+por medio de grafos cuales son los lugares más peligoros y
+cuales no tanto. por ende también tendrá una interfaz gráfica
+
+la cual estará construida por medio de Appinventor. 
+#Arquitectura
+  #Dockerfile
+
+
+
+#Proyecto.py
+
+#Tipo de servidor y Firewall. 
