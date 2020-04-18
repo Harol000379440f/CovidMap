@@ -21,8 +21,8 @@ críticos por dicha patología. la información obtenida se actualizará
 por medio de una base de datos y se entregará un reporte actualizado 
 a los usuarios. 
 
-#Arquitectura
-  #Dockerfile
+# Arquitectura
+  #  Dockerfile
 Este archivo está directamente relacionado con
 el contenedor, el cual se encargará de ejecutar
 las instrucciones que serán necesarias a la hora de
